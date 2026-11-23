@@ -1,0 +1,101 @@
+District,Crop,Season,Rainfall_mm,Temperature_C,Soil_Type,Soil_pH,Nitrogen_N,Phosphorus_P,Potassium_K,Irrigation_Type,Fertilizer_Used_kg
+Chhatrapati Sambhajinagar,Gram,Rabi,210.2,28.5,Alluvial Soil,6.95,20.4,41.1,18.4,Rainfed,125.9
+Nashik,Sugarcane,Whole Year,1344.2,32.8,Sandy Loam,6.04,163.8,102.1,91.7,Drip Irrigation,389.2
+Jalgaon,Wheat,Rabi,386.5,24.9,Black Soil,6.85,99.4,51.0,45.3,Canal,231.1
+Ahmednagar,Rice,Kharif,869.7,24.6,Clayey Loam,7.55,155.6,61.9,52.2,Sprinkler,326.6
+Jalgaon,Rice,Kharif,1432.1,27.1,Sandy Loam,6.33,82.4,38.7,51.3,Rainfed,224.5
+Latur,Rice,Kharif,1383.5,26.1,Alluvial Soil,6.85,106.6,59.8,45.2,Canal,244.0
+Kolhapur,Rice,Kharif,888.7,28.7,Alluvial Soil,7.49,115.9,65.0,53.4,Canal,274.0
+Ahmednagar,Tomato,Summer,783.6,31.3,Black Soil,7.29,158.9,63.6,71.6,Tube Well,351.8
+Latur,Gram,Rabi,190.0,24.1,Clayey Loam,6.95,20.2,45.9,14.4,Sprinkler,135.8
+Jalgaon,Onion,Rabi,546.0,19.3,Black Soil,6.49,123.0,45.0,111.1,Drip Irrigation,310.0
+Latur,Rice,Kharif,1277.3,28.7,Black Soil,6.04,99.5,50.6,74.6,Tube Well,246.8
+Nashik,Wheat,Rabi,327.3,21.2,Red Soil,6.66,114.6,43.8,42.8,Tube Well,237.2
+Satara,Soybean,Kharif,1212.7,31.1,Sandy Loam,7.0,27.8,67.8,30.2,Canal,152.8
+Amravati,Bajra,Kharif,624.4,29.8,Clayey Loam,7.28,72.5,33.2,25.5,Drip Irrigation,160.8
+Kolhapur,Cotton,Kharif,993.6,27.0,Black Soil,7.31,124.3,52.3,58.5,Drip Irrigation,255.4
+Nashik,Bajra,Kharif,369.6,33.6,Alluvial Soil,6.52,51.0,23.2,23.1,Rainfed,151.3
+Pune,Soybean,Kharif,569.8,30.5,Alluvial Soil,7.16,30.4,70.9,39.8,Canal,178.4
+Kolhapur,Soybean,Kharif,564.5,28.1,Alluvial Soil,6.93,29.3,68.9,36.4,Tube Well,169.9
+Pune,Gram,Rabi,382.2,19.8,Red Soil,7.32,19.6,36.9,17.0,Drip Irrigation,105.4
+Latur,Onion,Rabi,532.6,25.8,Sandy Loam,7.26,132.4,106.2,89.1,Sprinkler,375.8
+Jalgaon,Wheat,Rabi,552.5,15.5,Red Soil,7.34,67.7,45.3,48.7,Canal,186.8
+Jalgaon,Cotton,Kharif,774.1,34.8,Clayey Loam,7.41,100.3,54.4,60.5,Canal,246.0
+Jalgaon,Tomato,Rabi,627.9,22.2,Red Soil,6.82,154.7,78.2,116.6,Rainfed,379.1
+Kolhapur,Gram,Rabi,343.3,16.9,Alluvial Soil,7.11,23.3,41.8,22.8,Tube Well,121.8
+Jalgaon,Cotton,Rabi,725.9,28.4,Sandy Loam,7.03,147.0,54.0,59.1,Tube Well,286.6
+Latur,Soybean,Kharif,722.5,24.4,Clayey Loam,7.1,32.9,65.6,49.1,Sprinkler,193.6
+Ahmednagar,Bajra,Kharif,549.6,29.4,Black Soil,6.69,55.7,35.7,25.8,Sprinkler,172.4
+Chhatrapati Sambhajinagar,Onion,Rabi,694.4,23.9,Black Soil,7.06,150.7,52.9,88.8,Canal,346.7
+Jalgaon,Soybean,Kharif,1127.4,28.1,Black Soil,7.34,28.1,63.9,39.0,Canal,189.0
+Kolhapur,Cotton,Kharif,949.7,34.1,Black Soil,7.4,112.5,56.3,49.9,Tube Well,240.9
+Kolhapur,Tomato,Rabi,794.5,26.7,Sandy Loam,7.03,151.8,57.0,92.3,Canal,337.0
+Pune,Rice,Kharif,1223.7,22.9,Black Soil,7.53,96.7,68.6,64.8,Drip Irrigation,260.1
+Jalgaon,Wheat,Rabi,476.3,15.3,Sandy Loam,7.43,115.4,55.5,45.9,Rainfed,264.0
+Satara,Soybean,Kharif,548.3,28.8,Sandy Loam,7.01,30.6,50.7,40.2,Sprinkler,166.7
+Kolhapur,Soybean,Kharif,819.6,25.9,Alluvial Soil,6.85,25.6,65.6,31.7,Drip Irrigation,158.3
+Satara,Cotton,Kharif,585.9,27.7,Alluvial Soil,6.2,69.7,56.8,48.8,Drip Irrigation,218.5
+Nashik,Onion,Rabi,776.9,22.4,Red Soil,6.14,152.5,58.6,99.8,Canal,347.5
+Pune,Sugarcane,Whole Year,1380.6,37.3,Sandy Loam,7.16,234.3,78.2,83.5,Canal,443.0
+Amravati,Bajra,Rabi,582.7,31.2,Red Soil,8.03,81.1,28.5,23.9,Canal,158.8
+Jalgaon,Wheat,Rabi,426.8,25.7,Clayey Loam,6.12,76.3,29.6,37.8,Sprinkler,184.3
+Jalgaon,Rice,Kharif,1141.6,34.0,Black Soil,7.23,111.7,34.8,62.1,Rainfed,236.9
+Jalgaon,Onion,Rabi,737.2,22.2,Alluvial Soil,6.47,118.5,71.5,64.2,Tube Well,281.9
+Kolhapur,Wheat,Rabi,340.6,18.4,Clayey Loam,6.72,76.0,69.6,40.3,Sprinkler,207.5
+Latur,Rice,Kharif,1561.4,32.0,Sandy Loam,6.69,85.3,55.8,44.5,Drip Irrigation,225.0
+Jalgaon,Tomato,Rabi,715.0,22.3,Red Soil,7.24,169.5,61.3,66.8,Rainfed,321.8
+Satara,Gram,Rabi,343.2,18.5,Red Soil,6.4,14.1,46.1,18.8,Tube Well,122.4
+Nashik,Sugarcane,Whole Year,1264.2,29.7,Black Soil,7.7,184.5,71.0,136.6,Tube Well,451.6
+Kolhapur,Sugarcane,Whole Year,1597.0,32.6,Clayey Loam,7.45,249.6,125.4,133.8,Canal,557.4
+Sangli,Rice,Kharif,1030.6,25.5,Clayey Loam,7.14,45.2,45.4,46.9,Rainfed,182.0
+Latur,Maize,Kharif,409.2,34.0,Red Soil,7.99,135.0,47.8,59.1,Sprinkler,293.8
+Kolhapur,Soybean,Kharif,928.9,25.9,Clayey Loam,7.04,29.1,74.0,42.0,Sprinkler,170.7
+Kolhapur,Wheat,Rabi,401.5,24.6,Alluvial Soil,7.12,116.4,32.9,36.0,Canal,233.9
+Solapur,Wheat,Rabi,244.1,16.4,Black Soil,6.63,101.1,52.4,27.8,Drip Irrigation,218.5
+Chhatrapati Sambhajinagar,Tomato,Rabi,506.9,28.4,Sandy Loam,7.04,135.4,86.5,78.2,Drip Irrigation,349.8
+Solapur,Maize,Kharif,628.9,27.9,Sandy Loam,5.88,136.2,87.1,32.5,Canal,295.9
+Nashik,Maize,Summer,1220.8,21.3,Alluvial Soil,7.14,94.6,53.8,41.4,Tube Well,225.8
+Latur,Tomato,Rabi,617.0,25.2,Sandy Loam,7.89,167.7,83.5,108.8,Sprinkler,386.1
+Ahmednagar,Sugarcane,Whole Year,1870.9,28.5,Black Soil,6.94,252.8,140.2,76.1,Canal,491.2
+Sangli,Onion,Rabi,448.2,18.2,Sandy Loam,7.41,121.8,44.5,59.3,Sprinkler,275.1
+Solapur,Wheat,Rabi,327.2,21.2,Clayey Loam,7.35,137.0,61.3,37.8,Rainfed,259.5
+Pune,Rice,Kharif,1259.4,28.5,Sandy Loam,6.71,89.1,49.7,44.6,Canal,225.9
+Nashik,Soybean,Kharif,284.9,29.0,Alluvial Soil,6.87,29.1,66.3,46.7,Tube Well,178.4
+Jalgaon,Gram,Rabi,391.7,14.0,Red Soil,6.61,21.9,75.7,20.6,Rainfed,151.8
+Nashik,Rice,Kharif,1251.8,23.1,Alluvial Soil,6.55,104.6,42.8,56.9,Tube Well,229.3
+Chhatrapati Sambhajinagar,Wheat,Rabi,369.9,24.6,Red Soil,7.5,89.9,46.7,39.2,Sprinkler,229.0
+Nashik,Onion,Rabi,499.5,24.6,Alluvial Soil,6.51,119.5,64.0,79.0,Tube Well,303.0
+Amravati,Onion,Rabi,625.6,23.4,Black Soil,7.01,128.3,53.5,67.5,Drip Irrigation,270.1
+Kolhapur,Soybean,Kharif,967.3,28.9,Red Soil,7.49,40.0,72.2,25.3,Tube Well,178.2
+Solapur,Bajra,Kharif,288.6,33.0,Alluvial Soil,6.24,50.4,38.0,16.5,Rainfed,136.8
+Solapur,Rice,Kharif,1989.7,27.0,Black Soil,7.06,151.2,49.0,61.5,Sprinkler,286.0
+Amravati,Onion,Rabi,506.0,30.3,Black Soil,7.35,106.5,67.6,95.6,Rainfed,300.5
+Pune,Soybean,Kharif,1093.1,31.7,Black Soil,7.06,34.9,67.4,50.3,Tube Well,206.6
+Nashik,Onion,Rabi,621.7,22.7,Alluvial Soil,7.05,107.2,36.6,75.5,Sprinkler,244.1
+Nashik,Rice,Kharif,1384.7,33.7,Sandy Loam,5.64,127.0,63.0,59.0,Sprinkler,288.2
+Kolhapur,Wheat,Rabi,466.7,23.1,Red Soil,8.02,109.7,51.5,53.7,Tube Well,251.9
+Sangli,Wheat,Rabi,437.1,24.5,Alluvial Soil,7.02,124.5,43.2,35.9,Rainfed,248.7
+Satara,Rice,Kharif,938.2,31.8,Black Soil,6.85,83.9,39.9,39.5,Tube Well,192.7
+Satara,Soybean,Kharif,899.8,27.4,Clayey Loam,6.59,43.9,52.0,49.3,Canal,185.7
+Latur,Tomato,Rabi,740.2,22.8,Red Soil,6.75,145.0,74.0,76.5,Drip Irrigation,345.8
+Solapur,Wheat,Rabi,391.2,27.4,Sandy Loam,7.9,87.7,46.1,42.3,Drip Irrigation,222.4
+Latur,Cotton,Summer,758.5,27.8,Alluvial Soil,7.45,100.7,68.7,58.2,Rainfed,269.3
+Ahmednagar,Rice,Kharif,1391.4,28.1,Clayey Loam,6.87,76.6,42.6,40.7,Drip Irrigation,215.2
+Satara,Tomato,Summer,561.9,27.2,Red Soil,7.78,160.3,67.5,87.7,Sprinkler,338.8
+Nashik,Rice,Kharif,632.2,27.6,Sandy Loam,6.66,99.1,46.7,46.5,Canal,219.4
+Solapur,Cotton,Kharif,891.0,33.4,Clayey Loam,6.65,99.2,70.2,42.6,Sprinkler,255.7
+Solapur,Soybean,Kharif,814.2,26.1,Alluvial Soil,7.94,21.3,33.6,43.5,Canal,146.2
+Nashik,Maize,Kharif,661.1,23.0,Clayey Loam,6.94,135.2,45.3,53.3,Canal,264.7
+Nashik,Sugarcane,Whole Year,1485.2,33.8,Black Soil,7.86,375.8,76.9,105.4,Drip Irrigation,581.7
+Latur,Rice,Kharif,1005.0,32.3,Clayey Loam,6.92,73.2,35.7,56.1,Canal,207.3
+Solapur,Sugarcane,Whole Year,1237.5,38.9,Red Soil,6.81,266.4,113.3,135.7,Canal,565.8
+Satara,Sugarcane,Rabi,1398.7,27.9,Alluvial Soil,7.75,293.9,109.9,115.6,Drip Irrigation,552.5
+Chhatrapati Sambhajinagar,Soybean,Kharif,858.0,31.5,Red Soil,7.31,27.0,54.7,42.2,Sprinkler,172.2
+Satara,Sugarcane,Whole Year,1842.8,34.0,Black Soil,6.83,370.7,130.0,160.5,Sprinkler,705.0
+Sangli,Onion,Rabi,824.8,21.7,Red Soil,6.76,112.3,65.1,88.4,Tube Well,312.1
+Nashik,Wheat,Summer,276.2,22.0,Sandy Loam,6.32,90.5,36.6,37.0,Drip Irrigation,217.7
+Chhatrapati Sambhajinagar,Cotton,Kharif,698.5,24.5,Clayey Loam,8.0,97.9,67.8,33.7,Tube Well,243.1
+Ahmednagar,Sugarcane,Whole Year,1540.6,29.6,Sandy Loam,7.16,235.4,77.0,113.8,Drip Irrigation,481.1
+Chhatrapati Sambhajinagar,Onion,Rabi,172.7,20.9,Black Soil,6.19,161.2,78.5,57.5,Canal,326.5
+Ahmednagar,Tomato,Rabi,811.9,23.3,Red Soil,6.22,137.2,104.0,117.0,Rainfed,384.9
+Pune,Cotton,Kharif,979.2,30.6,Clayey Loam,7.54,89.7,50.4,37.6,Tube Well,204.9
